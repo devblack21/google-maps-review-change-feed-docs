@@ -19,10 +19,20 @@ This repository is the user documentation. The Actor source code stays in a priv
 
 ## Call it from code
 
-| SDK | Guide |
+No extra package. Each guide uses that language's standard library and the [Apify HTTP API](sdk/api.md).
+
+| | Guide |
 | --- | --- |
-| JavaScript (`apify-client`) | [sdk/javascript.md](sdk/javascript.md) |
-| Python (`apify-client`) | [sdk/python.md](sdk/python.md) |
+| The API itself | [sdk/api.md](sdk/api.md) |
+| JavaScript | [sdk/javascript.md](sdk/javascript.md) |
+| TypeScript | [sdk/typescript.md](sdk/typescript.md) |
+| Python | [sdk/python.md](sdk/python.md) |
+| Java | [sdk/java.md](sdk/java.md) |
+| Kotlin | [sdk/kotlin.md](sdk/kotlin.md) |
+| Go | [sdk/go.md](sdk/go.md) |
+| C# | [sdk/csharp.md](sdk/csharp.md) |
+| PHP | [sdk/php.md](sdk/php.md) |
+| Ruby | [sdk/ruby.md](sdk/ruby.md) |
 
 Actor ID: `basta_compilar/google-maps-review-change-feed`
 
